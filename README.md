@@ -4,22 +4,16 @@ A console-based Fast-Food Ordering System built in C++ that supports both custom
 ✨ Features
 1. User Login & Authorization
 Role-based access for Customers and Staff.
-
 2. Food Ordering System
 Browse menu, add items, confirm orders, and apply promotions.
-
 3. Payment Processing
 Validates input, calculates totals, applies discounts, and generates invoices.
-
 4. Shift Control (Staff Only)
 Staff can open/close the ordering system via a shift controller.
-
 5. Order Reports (Staff Only)
 View daily sales and order summaries.
-
 6. Invoice Generation
 Automatically produces a receipt after successful payment.
-
 7. Customer Feedback
 Users can submit experience feedback for service improvement.
 
